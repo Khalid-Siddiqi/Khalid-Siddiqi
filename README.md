@@ -7,6 +7,7 @@
   * Node.js
   * React.js
   * Express.js
+  * C/C++
   ### Database:
   * MySQL
   * MongoDB

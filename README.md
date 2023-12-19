@@ -1,4 +1,5 @@
 - Hi, I’m @Khalid-Siddiqi
+- I am also volunteering as a Beta Microsoft Student Ambassador.
 - I’m interested in Development and Computer Vision.
 - I also fancy Computer Networking.
 - I’m currently doing BCS from FAST NUCES Karachi

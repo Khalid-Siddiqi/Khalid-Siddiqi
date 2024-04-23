@@ -1,5 +1,5 @@
 - Hi, I’m @Khalid-Siddiqi
-- I’m interested in Machine Learning and Computer Vision.
+- I’m a Machine Learning and Computer Vision enthusiast.
 - I also fancy Computer Networking.
 - I’m currently doing BCS from FAST NUCES Karachi,
 - I am also volunteering as a Beta Microsoft Student Ambassador.

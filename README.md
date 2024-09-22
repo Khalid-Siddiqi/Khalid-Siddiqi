@@ -6,7 +6,6 @@
 - I’m looking to participate in speed coding competitions on national and International levels.<br>
   ###   Programming Languages:
   * Node.js
-  * React.js
   * Express.js
   * C/C++
   * Python

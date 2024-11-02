@@ -1,5 +1,6 @@
 - Hi, I’m @Khalid-Siddiqi
 - I’m a Machine Learning, Deep learning and Computer Vision enthusiast.
+- I am currently working on A AI-based Diabetic Patient Management(ADPM) 
 - I’m currently a Senior at FAST NUCES Karachi,
 - I’m looking to participate in speed coding competitions on national and International levels.<br>
   ###   Programming Languages:

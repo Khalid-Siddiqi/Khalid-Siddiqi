@@ -1,12 +1,13 @@
 - Hi, I’m @Khalid-Siddiqi
-- I’m a Machine Learning, Deep learning and Computer Vision enthusiast.
+- I’m a Machine Learning, Deep Learning and Computer Vision enthusiast.
 - I’m currently a Senior at FAST NUCES Karachi,
+- I'm working on my
 - I’m looking to participate in speed coding competitions on national and International levels.<br>
   ###   Programming Languages:
   * Node.js
   * Express.js
   * C/C++
-  * Python
+  * Python(Pytorch,)
   ### Database:
   * MySQL
   * MongoDB

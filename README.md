@@ -7,7 +7,7 @@
   * Node.js
   * Express.js
   * C/C++
-  * Python
+  * Python(FastAPI)
   ### Database:
   * MySQL
   * MongoDB

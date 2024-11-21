@@ -9,7 +9,7 @@
   * C/C++
   * Python(FastAPI)
   ### Database:
-  * MySQL
+  * MySQL,TimeScale DB
   * MongoDB
 <!---
 Khalid-Siddiqi/Khalid-Siddiqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,7 +9,7 @@
   * C/C++
   * Python(FastAPI)
   ### Database:
-  * MySQL
+  * MySQL,TimeScale DB
   * MongoDB
   ### Projects & Expertise:
   * Proficient in YOLOv11 for instance segmentation and object detection tasks, focusing on medical imaging.

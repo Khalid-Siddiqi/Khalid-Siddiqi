@@ -13,6 +13,8 @@
   * MongoDB
   ### Projects & Expertise:
   * Proficient in YOLOv11 for instance segmentation and object detection tasks, focusing on medical imaging.
+  * Developed solutions for real-time image annotation and processing using machine learning models.
+  * Hands-on experience with TensorFlow.js for client-side deep learning applications and integration into web/mobile platforms.
 
 
 <!---

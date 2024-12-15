@@ -11,6 +11,7 @@
   ### Database:
   * MySQL
   * MongoDB
+  * Supabase
   ### Projects & Expertise:
   * Proficient in YOLOv11 for instance segmentation and object detection tasks, focusing on medical imaging.
   * Developed solutions for real-time image annotation and processing using machine learning models.

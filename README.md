@@ -9,7 +9,7 @@
   * C/C++
   * Python(FastAPI)
   ### Database:
-  * MySQL
+  * MySQL,TimeScale DB
   * MongoDB
   * Supabase
   ### Projects & Expertise:

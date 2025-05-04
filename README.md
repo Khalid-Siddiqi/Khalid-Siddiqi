@@ -1,25 +1,28 @@
-- Hi, I’m @Khalid-Siddiqi
-- I’m a Machine Learning, Deep Learning and Computer Vision enthusiast.
-- I am currently working on an AI-based Diabetic Patient Management(ADPM) 
-- I’m currently a Senior at FAST NUCES Karachi,
-- I’m looking to participate in speed coding competitions on national and International levels.<br>
-  ###   Programming Languages:
-  * Node.js
-  * Express.js
-  * C/C++
-  * Python(FastAPI)
-  ### Database:
-  * MySQL
-  * MongoDB
-  * Supabase
-  ### Projects & Expertise:
-  * Proficient in YOLOv11 for instance segmentation and object detection tasks, focusing on medical imaging.
-  * Developed solutions for real-time image annotation and processing using machine learning models.
-  * Hands-on experience with TensorFlow.js for client-side deep learning applications and integration into web/mobile platforms.
+👋 Hi, I’m @Khalid-Siddiqi
 
+🎓 Final Year Computer Science Student @ FAST NUCES Karachi  
+🧠 Passionate about Machine Learning, Deep Learning & Computer Vision  
+💼 Currently leading research on an AI-based Diabetic Patient Management (ADPM) System  
 
-<!---
-Khalid-Siddiqi/Khalid-Siddiqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 Research & Projects:
+• Developed an **Image-Based Recommender System** for **Diabetic Foot Ulcer (DFU)** treatment using:
+   - **ConvNeXt**, **Swin Transformer**, **Vision Transformer (ViT)**, and 6+ CNN architectures  
+   - Hybrid approach: Deep learning for wound classification + **XGBoost** for treatment recommendation  
+• Implemented **YOLOv11** for real-time instance segmentation in medical images  
+• Built **full-stack web and mobile app** tools for image annotation and diabetic ulcer analysis using **FastAPI**, TensorFlow.js, and **REST APIs**. The system generated downloadable **PDF reports** including **segmented overlays**, **treatment recommendations**, and **personalised care plans**.
 
+🧰 Tech Stack:
+Languages: Python (FastAPI), Node.js, C/C++  
+Frameworks: PyTorch, TensorFlow, OpenCV, Scikit-learn  
+Databases: MySQL, MongoDB, Supabase  
+Deep Learning Models: Swin Transformer, ViT, ConvNeXt, YOLOv11, ResNet, Inception, EfficientNet, DenseNet, etc.
+
+🎯 Goals:
+• Compete in national & international speed coding competitions  
+• Apply ML/DL to real-world healthcare challenges
+
+🔗 Portfolio & Contact:
+• [LinkedIn]  
+• [DFU Recommender System Repo]  
+• [YOLO Medical Imaging Tool Repo]  
+• [Email / Blog / Portfolio]

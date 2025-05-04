@@ -22,7 +22,7 @@ Deep Learning Models: Swin Transformer, ViT, ConvNeXt, YOLOv11, ResNet, Inceptio
 • Apply ML/DL to real-world healthcare challenges
 
 🔗 Portfolio & Contact:
-• [LinkedIn]  
+• [[LinkedIn]](https://www.linkedin.com/in/khalid-khurshid-siddiqui-b0b827238/)  
 • [DFU Recommender System Repo]  
 • [YOLO Medical Imaging Tool Repo]  
 • [Email / Blog / Portfolio]

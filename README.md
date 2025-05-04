@@ -23,6 +23,6 @@ Deep Learning Models: Swin Transformer, ViT, ConvNeXt, YOLOv11, ResNet, Inceptio
 
 🔗 Portfolio & Contact:
 • [[LinkedIn]](https://www.linkedin.com/in/khalid-khurshid-siddiqui-b0b827238/)  
-• [DFU Recommender System Repo]  
+• [[DFU Recommender System Repo]](https://github.com/Khalid-Siddiqi/Image-Based-Recommender-System-for-Personalized-Diabetic-Foot-Ulcer-Treatment-Using-Deep-Learning)  
 • [YOLO Medical Imaging Tool Repo]  
 • [Email / Blog / Portfolio]

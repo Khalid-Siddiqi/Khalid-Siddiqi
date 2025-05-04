@@ -25,5 +25,5 @@
 ## 🔗 Portfolio & Contact:
 - [[LinkedIn]](https://www.linkedin.com/in/khalid-khurshid-siddiqui-b0b827238/)  
 - [[DFU Recommender System Repo]](https://github.com/Khalid-Siddiqi/Image-Based-Recommender-System-for-Personalized-Diabetic-Foot-Ulcer-Treatment-Using-Deep-Learning)  
-- [YOLO Medical Imaging Tool Repo]  
+- [[YOLO Medical Imaging Tool Repo]](https://github.com/Khalid-Siddiqi/DFU-Detection-Segmentation-with-YOLOv11-Full-Stack-Mobile-Deployment)  
 - [[Email]](khalid20031016@gmail.com)

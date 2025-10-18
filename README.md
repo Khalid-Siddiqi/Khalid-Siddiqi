@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Khalid-Siddiqi
 
-🎓 Final Year Computer Science Student @ **FAST NUCES Karachi**  
+🎓 Computer Science Graduate from **FAST NUCES Karachi**  
 🧠 Passionate about **Machine Learning, Deep Learning & Computer Vision**  
 💼 Currently **leading research** on an **AI-based Diabetic Patient Management (ADPM) System**  
 🎯 Seeking opportunities to participate in national and international **Computer Vision & AI competitions** to apply and hone my skills.

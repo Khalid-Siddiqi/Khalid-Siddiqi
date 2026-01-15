@@ -9,8 +9,8 @@
 
 ## 🏆 Achievements
 
-- 🥉 3rd place in **Procom Computer Vision Competition 2025** - 🥉 3rd place in **PaysysLab AI Competition 2025**
-
+- 🥉 3rd place in **Procom Computer Vision Competition 2025**
+- 🥉 3rd place in **PaysysLab AI Competition 2025**
 ---
 
 ## 🔬 Research & Professional Experience

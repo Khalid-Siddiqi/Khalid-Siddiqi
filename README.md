@@ -1,42 +1,48 @@
 # 👋 Hi, I’m @Khalid-Siddiqi
 
-🎓 Computer Science Graduate from **FAST NUCES Karachi**  
-🧠 Passionate about **Machine Learning, Deep Learning & Computer Vision**  
-💼 Currently **leading research** on an **AI-based Diabetic Patient Management (ADPM) System**  
-🎯 Seeking opportunities to participate in national and international **Computer Vision & AI competitions** to apply and hone my skills.
+🎓 Computer Science Graduate from **FAST NUCES Karachi** 💼 **Research Assistant at GUTech** specializing in **Fine-Grained Action Recognition** 🧠 Passionate about **Machine Learning, Deep Learning & Computer Vision** 🎯 Seeking opportunities to participate in national and international **Computer Vision & AI competitions** to apply and hone my skills.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 3rd place in **Procom Computer Vision Competition 2025**  
-- 🥉 3rd place in **PaysysLab AI Competition 2025**
+- 🥉 3rd place in **Procom Computer Vision Competition 2025** - 🥉 3rd place in **PaysysLab AI Competition 2025**
 
 ---
 
-## 🔬 Research & Projects
+## 🔬 Research & Professional Experience
 
-- Developed an **Image-Based Recommender System** for **Diabetic Foot Ulcer (DFU)** treatment using:
-  - **ConvNeXt**, **Swin Transformer**, **Vision Transformer (ViT)**, and 6+ CNN architectures  
-  - Hybrid approach: Deep learning for wound classification + **XGBoost** for treatment recommendation
-- Implemented **YOLOv11** for real-time instance segmentation in medical images
-- Built **full-stack web and mobile app** tools for image annotation and diabetic ulcer analysis using **FastAPI**, TensorFlow.js, and **REST APIs**. The system generated downloadable **PDF reports** including **segmented overlays**, **treatment recommendations**, and **personalised care plans**.
+### **Research Assistant | GUTech**
+*Current*
+Conducting advanced research on **Fine-Grained Action Recognition** and **Sequential Task Analysis** for surveillance and monitoring systems.
+- **Hybrid Architectures:** Developing pipelines combining **YOLO** (object detection) and **MediaPipe** (hand pose estimation) with **LSTMs** for temporal logic and sequence modeling.
+- **ATM Activity Detection:** Built models to monitor and analyze complex user interactions and workflow compliance at ATM machines.
+- **Behavioral Analysis:** Engineered solutions to distinguish subtle actions, such as differentiating between *active phone calling* versus *general phone interaction*.
+
+### **AI-Based Diabetic Patient Management (ADPM) System**
+*Project Lead*
+Developed an **Image-Based Recommender System** for **Diabetic Foot Ulcer (DFU)** treatment.
+- **Architectures:** Utilized **ConvNeXt**, **Swin Transformer**, **Vision Transformer (ViT)**, and 6+ CNN architectures.
+- **Hybrid Approach:** Combined Deep Learning for wound classification with **XGBoost** for treatment recommendation.
+- **Full-Stack Implementation:** Built web/mobile tools using **FastAPI**, TensorFlow.js, and REST APIs to generate PDF reports with segmented overlays and personalized care plans.
+- **Deployment:** Implemented **YOLOv11** for real-time instance segmentation in medical images.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python (FastAPI), Node.js, C/C++  
-- **Frameworks:** PyTorch, TensorFlow, OpenCV, Scikit-learn  
+- **Languages:** Python, Node.js, C/C++  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, MediaPipe, Scikit-learn, FastAPI  
+- **Deep Learning Models:** LSTM, Swin Transformer, ViT, ConvNeXt, YOLOv11, ResNet, Inception, EfficientNet  
 - **Databases:** MySQL, MongoDB, Supabase  
-- **Deep Learning Models:** Swin Transformer, ViT, ConvNeXt, YOLOv11, ResNet, Inception, EfficientNet, DenseNet, etc.
 
 ---
 
 ## 🎯 Goals
 
 - Compete in national & international speed coding and AI/Computer Vision competitions  
-- Apply ML/DL to real-world healthcare challenges
+- Advance state-of-the-art research in Human Activity Recognition (HAR)  
+- Apply ML/DL to real-world healthcare and industrial challenges
 
 ---
 

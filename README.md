@@ -51,7 +51,8 @@ Developed an **Image-Based Recommender System** for **Diabetic Foot Ulcer (DFU)*
 
 ## 🔗 Portfolio & Contact
 
-- [LinkedIn](https://www.linkedin.com/in/khalid-khurshid-siddiqui-b0b827238/)  
+- [LinkedIn](https://www.linkedin.com/in/khalid-khurshid-siddiqui-b0b827238/)
+- [Activity Recognition]()
 - [DFU Recommender System Repo](https://github.com/Khalid-Siddiqi/Image-Based-Recommender-System-for-Personalized-Diabetic-Foot-Ulcer-Treatment-Using-Deep-Learning)  
 - [YOLO Medical Imaging Tool Repo](https://github.com/Khalid-Siddiqi/DFU-Detection-Segmentation-with-YOLOv11-Full-Stack-Mobile-Deployment)  
 - [Email](mailto:khalid20031016@gmail.com)

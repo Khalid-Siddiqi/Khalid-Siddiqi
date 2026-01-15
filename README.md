@@ -1,6 +1,9 @@
 # 👋 Hi, I’m @Khalid-Siddiqi
 
-🎓 Computer Science Graduate from **FAST NUCES Karachi** 💼 **Research Assistant at GUTech** specializing in **Fine-Grained Action Recognition** 🧠 Passionate about **Machine Learning, Deep Learning & Computer Vision** 🎯 Seeking opportunities to participate in national and international **Computer Vision & AI competitions** to apply and hone my skills.
+🎓 Computer Science Graduate from **FAST NUCES Karachi**
+💼 **Research Assistant at GU-Tech** specializing in **Fine-Grained Action Recognition** 
+🧠 Passionate about **Machine Learning, Deep Learning & Computer Vision** 
+🎯 Seeking opportunities to participate in national and international **Computer Vision & AI competitions** to apply and hone my skills.
 
 ---
 
@@ -12,7 +15,7 @@
 
 ## 🔬 Research & Professional Experience
 
-### **Research Assistant | GUTech**
+### **Research Assistant | GU-Tech**
 *Current*
 Conducting advanced research on **Fine-Grained Action Recognition** and **Sequential Task Analysis** for surveillance and monitoring systems.
 - **Hybrid Architectures:** Developing pipelines combining **YOLO** (object detection) and **MediaPipe** (hand pose estimation) with **LSTMs** for temporal logic and sequence modeling.

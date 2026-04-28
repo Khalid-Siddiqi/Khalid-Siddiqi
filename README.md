@@ -1,7 +1,9 @@
 # 👋 Hi, I’m @Khalid-Siddiqi
 
 🎓 Incoming **MS AI & Data Science Student at GUTECH** (Fall 2026) | BS CS from **FAST NUCES Karachi**
-💼 **AI Research Assistant at GUTECH** specializing in **Medical AI, Radiomics, and Computer Vision** 🧠 Passionate about bridging **Deep Learning, Medical Imaging, and Computational Neuroscience** 🎯 Currently exploring the internal geometry of vision models and interpretable AI for high-stakes healthcare.
+💼 **AI Research Assistant at GUTECH** specializing in **Medical AI, Radiomics, and Computer Vision** 
+🧠 Passionate about bridging **Deep Learning, Medical Imaging, and Computational Neuroscience** 
+🎯 Currently exploring the internal geometry of vision models and interpretable AI for high-stakes healthcare.
 
 ---
 
